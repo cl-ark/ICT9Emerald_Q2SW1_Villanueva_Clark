@@ -1,0 +1,27 @@
+table {
+	color: black; background-color: whitesmoke; align-content: center;
+}
+
+body {
+	background-color: black;
+}
+
+th {
+	font-size: 75px; font-family: sans-serif; color: darkgreen;
+}
+
+td {
+	align-content: center;
+}
+
+tr {
+	font-size: 30px;
+}
+
+#order {
+	font-size: 20px;
+}
+
+input {
+	padding: 20px 100px
+}
